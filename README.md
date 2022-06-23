@@ -1,6 +1,11 @@
-<h2 align="left">Olá 👋! Meu nome é Edgar, E eu sou de Curitiba-Paraná.</h2>
+<h2 align="left">Olá, Meu nome é Edgar, E eu sou de Curitiba-Paraná.</h2>
+<h2>Bem vindo ao meu Github! 👋</h2>
 
 ###
+
+- 🔭 Atualmente estou trabalhando em Freelancer Front-end
+- 🌱 Estou aprimorando meu conhecimento em Reactjs
+- 👯 Estou procurando colaborar em projetos open-source
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=edgarellias" height="150" alt="stats graph"  />
