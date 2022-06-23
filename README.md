@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/edgarellias/edgarellias/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
