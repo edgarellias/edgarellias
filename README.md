@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Meu nome é Edgar, E eu sou de Curitiba-Paraná.</h2>
+<h2 align="left">Olá, Meu nome é Edgar, Sou de Curitiba-Paraná.</h2>
 <h2>Bem vindo ao meu Github! 👋</h2>
 
 ###
