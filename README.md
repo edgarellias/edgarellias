@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Disponível para vagas.<br>🌱 Atualmente indo para o 3° período<br>🤔 Estou em procura de um estágio/vaga na areá de programação.<br>📫 Meu e-mail: edgar_jk3@hotmail.com</p>
+<p align="left">🔭 Disponível para vagas.<br>🌱 Atualmente indo para o 3° período<br>🤔 Estou a procura de um estágio/vaga na areá de programação.<br>📫 Meu e-mail: edgar_jk3@hotmail.com</p>
 
 ###
 
