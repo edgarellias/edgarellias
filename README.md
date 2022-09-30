@@ -1,6 +1,6 @@
 <h2 align="left">Hello👋, my name is Edgar Elias and i'm living in Brazil, Curitiba-Paraná.</h2>
 
-- 🔭 I’m currently Working at FREELANCER**
+- 🔭 I’m Working at FREELANCER**
 
 - 🌱 I’m currently learning **REACTJS**
 
