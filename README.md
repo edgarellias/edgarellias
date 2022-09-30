@@ -53,7 +53,7 @@
 <br clear="both">
 
 
-## Connect with me 📲
+## 📲 Connect with me 
 
 <div align="center">
   <a href="https://www.instagram.com/edgareliias_/" target="_blank">
