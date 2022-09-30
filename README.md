@@ -55,9 +55,10 @@
 ![Snake animation](https://github.com/edgarellias/edgarellias/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/edgarellias/count.svg?"  />
-</div>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=edgarellias">
+</a>
+<a href="https://github.com/edgarellias?tab=followers"><img src="https://img.shields.io/github/followers/edgarellias?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ###
