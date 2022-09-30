@@ -69,7 +69,7 @@
 
 ###
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=edgarellias">
 </a>
 <a href="https://github.com/edgarellias?tab=followers"><img src="https://img.shields.io/github/followers/edgarellias?label=Followers&style=social" alt="GitHub Badge"></a>
