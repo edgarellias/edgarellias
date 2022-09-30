@@ -1,5 +1,14 @@
 <h2 align="left">Hello👋, my name is Edgar Elias and i'm living in Brazil, Curitiba-Paraná.</h2>
 
+- 🔭 I’m currently Working at FREELANCER**
+
+- 🌱 I’m currently learning **REACTJS**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **edgar_jk3@hotmail.com**
+
+
 ###
 
 <br clear="both">
