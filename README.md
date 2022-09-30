@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
+<img align="right" height="150" radius="5" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
 
 ###
 
