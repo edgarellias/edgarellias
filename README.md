@@ -2,7 +2,7 @@
 
 - 🔭 I’m Working at FREELANCER**
 
-- 🌱 I’m currently learning **REACTJS**
+- ✍ I’m currently learning **REACTJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
