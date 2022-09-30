@@ -1,6 +1,6 @@
 <h2 align="center">Hello👋, my name is Edgar Elias and i'm living in Brazil, Curitiba-Paraná.</h2>
 
-<img align="right" height="150" src="(https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif)" />
+<img align="right" height="150" src="[(https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif)](https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif)" />
 
 - 🔭 I’m Working at FREELANCER**
 
