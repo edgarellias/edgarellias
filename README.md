@@ -13,6 +13,8 @@
 
 <br clear="both">
 
+## 📊 My Github Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=algolia&locale=en&hide_border=false&username=edgarellias" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&username=edgarellias" height="150" alt="languages graph"  />
@@ -34,6 +36,8 @@
 ###
 
 <br clear="both">
+
+
 
 <div align="center">
   <a href="https://www.instagram.com/edgareliias_/" target="_blank">
