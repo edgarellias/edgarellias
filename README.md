@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://www.hubplural.com/wp-content/uploads/2019/12/jim-carey-cafe-computador.gif](https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif)"  />
+<img align="right" height="150" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
 
 ###
 
