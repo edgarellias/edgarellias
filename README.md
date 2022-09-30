@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋, my name is Edgar Elias and i'm living in Brazil, Curitiba-Paraná.</h2>
+<h2 align="center">Hello👋, my name is Edgar Elias and i'm living in Brazil, Curitiba-Paraná.</h2>
 
 - 🔭 I’m Working at FREELANCER**
 
