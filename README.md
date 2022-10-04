@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/edgarellias/edgarellias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edgarellias/edgarellia/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
