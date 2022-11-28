@@ -6,11 +6,9 @@
 
 ###
 
-- 🔭 I’m Working at FREELANCER**
+- 🔭 I’m Working at FAURECIA**
 
-- ✍ I’m currently learning **REACTJS**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- ✍ I’m currently learning **C#, .NET**
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
