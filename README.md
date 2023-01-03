@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m Working at FAURECIA**
+- 🔭 I'm looking for Internship/Trainee/Jr
 
 - ✍ I’m currently learning **C#, .NET**
 
