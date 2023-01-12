@@ -68,12 +68,6 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://github.com/edgarellias/edgarellias/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter" >
     <img src="https://komarev.com/ghpvc/?username=edgarellias" >
