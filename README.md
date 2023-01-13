@@ -8,7 +8,7 @@
 
 - 🔭 I'm looking for Internship/Trainee/Jr
 
-- ✍ I’m currently learning **ASP.NET MVC / SQL SERVER**
+- ✍ I’m currently learning **ASP.NET MVC / SQLSERVER**
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
