@@ -6,9 +6,9 @@
 
 ###
 
-- 🔭 I'm looking for Internship/Trainee/Jr
+- 🔭 I'm work at LW Tecnologia in function Development intern
 
-- ✍ I’m currently learning **ASP.NET MVC / SQLSERVER**
+- ✍ I’m currently learning ** REACTJS / SQL **
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
