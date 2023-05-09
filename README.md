@@ -8,7 +8,7 @@
 
 - 🔭 I'm work at LW Tecnologia in function Development intern
 
-- ✍ I’m currently learning ** REACTJS / SQL **
+- ✍ I’m currently learning ** JAVA **
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
