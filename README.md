@@ -8,7 +8,7 @@
 
 - 🔭 I'm work at LW Tecnologia in function Development intern
 
-- ✍ I’m currently learning ** JAVA **
+- ✍ I’m currently learning ** .NET **
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
