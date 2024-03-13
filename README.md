@@ -6,9 +6,9 @@
 
 ###
 
-- 🔭 I'm work at LW Tecnologia in function Development intern
+- 🔭 I'm work at LW Tecnologia in function Fullstack Developer Jr.
 
-- ✍ I’m currently learning ** .NET **
+- ✍ I’m currently learning ** NodeJs **
 
 - 📫 How to reach me **edgar_jk3@hotmail.com**
 
